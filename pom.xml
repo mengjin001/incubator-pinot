@@ -86,7 +86,7 @@
   </mailingLists>
 
   <scm>
-    <developerConnection>scm:git:git://apache/incubator-pinot.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/apache/incubator-pinot.git</developerConnection>
   </scm>
 
   <!-- Apache project inception year for generating correct NOTICE file for jar bundle. -->
